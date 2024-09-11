@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  border: 1px dashed steelblue;
+}
+
+.card-header {
+  font-size: x-large;
+  font-weight: 700;
+  color: green;
+  margin-bottom: 10px;
+  border-bottom: 1px solid red;
+}
+
+.card-body {
+  color: orange;
+}
