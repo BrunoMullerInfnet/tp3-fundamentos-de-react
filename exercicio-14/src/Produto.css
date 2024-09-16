@@ -1,0 +1,12 @@
+.produto-disponivel {
+  color: green;
+}
+
+.produto-indisponivel {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.hide-items {
+  display: none;
+}
