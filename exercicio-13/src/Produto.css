@@ -1,0 +1,8 @@
+.produto-disponivel {
+  color: green;
+}
+
+.produto-indisponivel {
+  color: gray;
+  text-decoration: line-through;
+}
